@@ -16,7 +16,6 @@ Database
 * mySQL
 
 # Usage
-Import sql database file located in the 'db' folder in the root directory to phpMyAdmin. Then change the db connection in the 'production/db/' 
-folder to appropriate configurations.
+Import sql database file located in the 'db/' folder in the root directory to phpMyAdmin. Then change the database connection in the 'production/db/' folder to appropriate configurations.
 
 After installing all dependencies, run the app inside your localhost folder in xampp server.
